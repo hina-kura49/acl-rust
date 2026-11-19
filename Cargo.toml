@@ -1,11 +1,11 @@
 [package]
-name = "ac-library-rs"
-version = "0.2.0"
+name = "acl-rust"
+version = "0.0.1"
 edition = "2018"
 rust-version = "1.70"
-description = "A Rust port of AtCoder Library (ACL)."
+description = "A Rust port of AtCoder Library (ACL). Unofficial."
 license = "CC0-1.0"
-repository = "https://github.com/rust-lang-ja/ac-library-rs"
+repository = "https://github.com/hina-kura49/acl-rust"
 keywords = ["competitive"]
 categories = ["algorithms", "data-structures"]
 
